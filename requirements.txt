@@ -1,2 +1,3 @@
 Sphinx<2
-requirements
+Werkzeug==0.16.0
+
