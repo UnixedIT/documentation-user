@@ -1,2 +1,4 @@
-Sphinx<2
+Sphinx==1.5.5
 Werkzeug
+docutils==0.14
+Jinja2==2.9.6
